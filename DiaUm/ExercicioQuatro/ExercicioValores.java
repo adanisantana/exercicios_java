@@ -1,11 +1,14 @@
 package ExercicioQuatro;
+import java.util.Locale;
 import java.util.Scanner;
+
 
 public class ExercicioValores {
 
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);
-		
+		 leitor.useLocale(Locale.US); // Define o locale como US
+
 		System.out.println("Digite o primeiro numero: ");
 		float n1 = leitor.nextInt();
 		System.out.println("Digite o segundo numero: ");

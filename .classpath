@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="DiaDois"/>
 	<classpathentry kind="src" path="DiaUm"/>
+	<classpathentry kind="src" path="DiaQuatroVetor"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

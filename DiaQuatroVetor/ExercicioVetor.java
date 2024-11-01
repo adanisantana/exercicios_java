@@ -18,7 +18,7 @@ public class ExercicioVetor {
 					break;
 			}
 				else {
-					System.out.println("O número não foi encontrado. ")
+					System.out.println("O número não foi encontrado. ");
 				}
 							
 					

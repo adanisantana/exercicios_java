@@ -12,6 +12,7 @@ public class ExercicioColecaoArray {
 		String cor;
 
 		Scanner leitor = new Scanner(System.in);
+		
 		// Solicitar ao usuario que digite 5 cores
 		for (int i = 0; i < 5; i++) {
 			System.out.println("Digite " + (i + 1) + "/5 cores: ");
